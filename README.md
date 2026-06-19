@@ -8,7 +8,7 @@ This project was built to gain practical experience in frontend development, bac
 
 ---
 
-**Live Demo**
+**📌📌Live Demo📌📌**
 
 https://full-stack-e-commerc-wn3i.bolt.host/
 
