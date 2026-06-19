@@ -77,27 +77,6 @@ https://full-stack-e-commerc-wn3i.bolt.host/
 
 ---
 
-## 📂 Project Structure
-
-```text
-ShopHub/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── services/
-│   └── styles/
-│
-├── backend/
-├── database/
-├── package.json
-└── README.md
-```
-
----
-
 ## 🎯 Key Functionalities
 
 * Browse products by category
